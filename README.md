@@ -1,3 +1,13 @@
+NOTE: USE THE .bnp FILE BELOW FOR UKMM
+
+This is a repaired version of v1.9.10a for Switch that would not load into UKMM. All content remains the same. 
+
+Some Instructions: [https://zeldamods.org/wiki/Help:Tools/UKMM](https://zeldamods.org/wiki/Help:Tools/UKMM)
+
+Downloads:
+
+Repaired .bnp for UKMM: [Second_Wind_v1_9_10a_switch.bnp](https://github.com/HGStone/Second-Wind-Switch_UKMM/releases/download/Second_Wind_v1.9.10a_UKMM_Switch_Edition/Second_Wind_v1_9_10a_switch.bnp)
+
 # Second-Wind
 
 Second Wind is a large-scale expansion for Breath of the Wild that aims to add new content to the game in a similar way to official DLCs. We've also decided to take things a step further by providing various overhauls, bug fixes, tweaks and new gameplay elements for players to explore.
